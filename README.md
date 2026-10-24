@@ -1,0 +1,2 @@
+# finguard
+hackathon for synoptix
